@@ -1,3 +1,9 @@
+# Numerical Linear Algebra Assignments
+
+This repository contains solutions for three Numerical Linear Algebra assignments, showcasing the application of advanced computational techniques to solve real-world problems.
+
+---
+
 ### **Assignment 3: Image Compression Using SVD**
 - **Objective**: Solve the problem of transmitting high-resolution astronomical images with reduced data size.
 - **Solution**:
